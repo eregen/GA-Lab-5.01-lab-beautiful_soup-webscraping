@@ -1,9 +1,6 @@
-# Web Scraping with Beautiful Soup: A Lab
+# Web Scraping with Beautiful Soup
 
-Lab filled out by Eli Regen,
-
-
-Using Beautiful Soup, scrape [ChubbyGrub.com](http://chubbygrub.com), and create a DataFrame of food items from every restaurant. Your DataFrame should look something like this:
+Using Beautiful Soup, I scrape [ChubbyGrub.com](http://chubbygrub.com), and create a DataFrame of food items from every restaurant. The DataFrame looks like this:
 
 | restaurant | category | name    | calories | carbs | fat |
 |------------|----------|---------|----------|-------|-----|
